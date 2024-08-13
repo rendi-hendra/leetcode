@@ -20,6 +20,5 @@ const high = (str: string): string => {
   
   return strArr[indexMaxWord];
 };
-
 console.log(high("man i need a taxi up to ubud")); // "taxi"
 console.log(high('what time are we climbing up the volcano')); // "volcano"
