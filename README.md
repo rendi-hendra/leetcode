@@ -1,1 +1,1 @@
-<h1 align="center">Latihan Leetcode</h1>
+<h1 align="center">Latihan Leetcode/Codewar</h1>
